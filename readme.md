@@ -57,3 +57,8 @@ The description preserves whitespace in the form of linebreak characters (\n). I
 "warlock",
 "wizard"
 ```
+
+## Licensing Bits
+__Open Game License v1.0a Copyright 2000, Wizards of the Coast, Inc.__
+
+`spells.json` contains content from the SRD and is restricted and covered by the OGL. You can find the OGL 1.0a at `ogl.html` in this repo, or online [here](http://www.opengamingfoundation.org/ogl.html). When using said data, please make sure to conform appropriately with the proper licenses and whatnot.

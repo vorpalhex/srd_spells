@@ -36,26 +36,25 @@ The description preserves whitespace in the form of linebreak characters (\n). I
 ## List of Tags
 
 ```
-"bard",
-"cantrip",
-"cleric (trickery)",
-"cleric",
-"druid",
-"level1",
-"level2",
-"level3",
-"level4",
-"level5",
-"level6"
-"level7",
-"level8",
-"level9",
-"paladin",
-"palidan",
-"ranger",
-"sorcerer",
-"warlock",
-"wizard"
+'sorcerer',
+'wizard',
+'cantrip',
+'ranger',
+'level1',
+'bard',
+'druid',
+'cleric',
+'warlock',
+'paladin',
+'cleric (trickery)',
+'level3',
+'level2',
+'level4',
+'level8',
+'level9',
+'level7',
+'level5',
+'level6'
 ```
 
 ## Licensing Bits

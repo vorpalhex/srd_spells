@@ -57,6 +57,16 @@ The description preserves whitespace in the form of linebreak characters (\n). I
 'level6'
 ```
 
+## Users
+
+_If you make use of this repo and would like to be added here, just open a ticket!_
+
+### [D&D Next Sheet](http://tools.fromthetabletop.net/#/spells)
+
+_Sesopenko_
+
+Dungeons and Dragons 5th edition character sheet
+
 ## Licensing Bits
 __Open Game License v1.0a Copyright 2000, Wizards of the Coast, Inc.__
 

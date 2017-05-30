@@ -67,6 +67,13 @@ _Sesopenko_
 
 Dungeons and Dragons 5th edition character sheet
 
+### [My Spells](https://github.com/sharpshark28/my_spells)
+
+_SharpShark28_
+
+Web-based application to elegantly view spells and save them to your local spellbook.
+
+
 ## Licensing Bits
 __Open Game License v1.0a Copyright 2000, Wizards of the Coast, Inc.__
 

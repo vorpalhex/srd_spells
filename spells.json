@@ -6178,7 +6178,7 @@
         "description": "Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.\n\nAs a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.\n\n| Size   | HP | AC | Attack                   | Str | Dex |\n\n| Tiny   | 20 | 18 | +8 to hit, 1d4+4 damage  |   4 |  18 |\n\n| Small  | 25 | 16 | +6 to hit, 1d8+2 damage  |   6 |  14 |\n\n| Medium | 40 | 13 | +5 to hit, 2d6+1 damage  |  10 |  12 |\n\n| Large  | 50 | 10 | +6 to hit, 2d10+2 damage |  14 |  10 |\n\n| Huge   | 80 | 10 | +8 to hit, 2d12+2 damage |  18 |   6 |\n\nAn animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.\n\nIf you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.",
         "duration": "Concentration, up to 1 minute",
         "higher_levels": "If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.",
-        "level": "animated",
+        "level": "5",
         "name": "Animate Objects",
         "range": "120 feet",
         "ritual": false,
@@ -6202,7 +6202,7 @@
             "somatic": true,
             "verbal": true
         },
-        "description": "A shimmering barrier extends out from you in a 10-foot-radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.\n\nThe barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.\n\nIf you move so an affected creature is forced to pass through the barrier, the spell ends.",
+        "description": "A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.\n\nThe barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.\n\nIf you move so an affected creature is forced to pass through the barrier, the spell ends.",
         "duration": "Concentration, up to 1 hour",
         "level": "5",
         "name": "Antilife Shell",
@@ -6211,7 +6211,7 @@
         "school": "abjuration",
         "tags": [
             "druid",
-            "level6"
+            "level5"
         ],
         "type": "5th-level abjuration"
     },
@@ -6242,30 +6242,6 @@
             "level6"
         ],
         "type": "6th-level conjuration"
-    },
-    {
-        "casting_time": "1 action",
-        "classes": [
-            "druid"
-        ],
-        "components": {
-            "material": false,
-            "raw": "V, S",
-            "somatic": true,
-            "verbal": true
-        },
-        "description": "A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.\n\nThe barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.\n\nIf you move so that an affected creature is forced to pass through the barrier, the spell ends.",
-        "duration": "Concentration, up to 1 hour",
-        "level": "5",
-        "name": "Antilife Shell",
-        "range": "Self (10-foot radius)",
-        "ritual": false,
-        "school": "abjuration",
-        "tags": [
-            "druid",
-            "level5"
-        ],
-        "type": "5th-level abjuration"
     },
     {
         "casting_time": "8 hours",

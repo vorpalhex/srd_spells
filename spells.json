@@ -17,7 +17,7 @@
         "name": "Acid Splash",
         "range": "60 feet",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "sorcerer",
             "wizard",
@@ -136,7 +136,7 @@
         "name": "Blade Ward",
         "range": "Self",
         "ritual": false,
-        "school": "Abjuration",
+        "school": "abjuration",
         "tags": [
             "bard",
             "sorcerer",
@@ -256,7 +256,7 @@
         "name": "Chill Touch",
         "range": "120 feet",
         "ritual": false,
-        "school": "Necromancy",
+        "school": "necromancy",
         "tags": [
             "sorcerer",
             "warlock",
@@ -494,7 +494,7 @@
         "name": "Dancing Lights",
         "range": "120 feet",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "bard",
             "sorcerer",
@@ -694,7 +694,7 @@
         "name": "Druidcraft",
         "range": "30 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "cantrip"
@@ -718,7 +718,7 @@
         "name": "Eldritch Blast",
         "range": "120 feet",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "warlock",
             "cantrip"
@@ -934,7 +934,7 @@
         "name": "Fire Bolt",
         "range": "120 feet",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "sorcerer",
             "wizard",
@@ -996,7 +996,7 @@
         "name": "Friends",
         "range": "Self",
         "ritual": false,
-        "school": "Enchantment",
+        "school": "enchantment",
         "tags": [
             "bard",
             "sorcerer",
@@ -1080,7 +1080,7 @@
         "name": "Guidance",
         "range": "Touch",
         "ritual": false,
-        "school": "Divination",
+        "school": "divination",
         "tags": [
             "cleric",
             "druid",
@@ -1412,7 +1412,7 @@
         "name": "Light",
         "range": "Touch",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "bard",
             "cleric",
@@ -1505,7 +1505,7 @@
         "name": "Mage Hand",
         "range": "30 feet",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "bard",
             "sorcerer",
@@ -1566,7 +1566,7 @@
         "name": "Mending",
         "range": "Touch",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "bard",
             "cleric",
@@ -1599,7 +1599,7 @@
         "name": "Message",
         "range": "120 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "bard",
             "sorcerer",
@@ -1631,7 +1631,7 @@
         "name": "Minor Illusion",
         "range": "30 feet",
         "ritual": false,
-        "school": "Illusion",
+        "school": "illusion",
         "tags": [
             "bard",
             "sorcerer",
@@ -1661,7 +1661,7 @@
         "name": "Poison Spray",
         "range": "10 feet",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "druid",
             "sorcerer",
@@ -1691,7 +1691,7 @@
         "name": "Prestidigitation",
         "range": "10 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "bard",
             "sorcerer",
@@ -1718,7 +1718,7 @@
         "name": "Produce Flame",
         "range": "Self",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "druid",
             "cantrip"
@@ -1804,7 +1804,7 @@
         "name": "Ray of Frost",
         "range": "60 feet",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "sorcerer",
             "wizard",
@@ -1890,7 +1890,7 @@
         "name": "Resistance",
         "range": "Touch",
         "ritual": false,
-        "school": "Abjuration",
+        "school": "abjuration",
         "tags": [
             "cleric",
             "druid",
@@ -1915,7 +1915,7 @@
         "name": "Sacred Flame",
         "range": "60 feet",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "cleric",
             "cantrip"
@@ -2049,7 +2049,7 @@
         "name": "Shillelagh",
         "range": "Touch",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "cantrip"
@@ -2074,7 +2074,7 @@
         "name": "Shocking Grasp",
         "range": "Touch",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "sorcerer",
             "wizard",
@@ -2162,7 +2162,7 @@
         "name": "Spare the Dying",
         "range": "Touch",
         "ritual": false,
-        "school": "Necromancy",
+        "school": "necromancy",
         "tags": [
             "cleric",
             "cantrip"
@@ -2214,7 +2214,7 @@
         "name": "Thaumaturgy",
         "range": "30 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "cleric",
             "cantrip"
@@ -2241,7 +2241,7 @@
         "name": "Thorn Whip",
         "range": "30 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "cantrip"
@@ -2323,7 +2323,7 @@
         "name": "True Strike",
         "range": "30 feet",
         "ritual": false,
-        "school": "Divination",
+        "school": "divination",
         "tags": [
             "bard",
             "sorcerer",
@@ -2381,7 +2381,7 @@
         "name": "Vicious Mockery",
         "range": "60 feet",
         "ritual": false,
-        "school": "Enchantment",
+        "school": "enchantment",
         "tags": [
             "bard",
             "cantrip"
@@ -2527,7 +2527,7 @@
         "name": "Blindness/Deafness",
         "range": "30 feet",
         "ritual": false,
-        "school": "Necromancy",
+        "school": "necromancy",
         "tags": [
             "bard",
             "cleric",
@@ -2582,7 +2582,7 @@
         "name": "Calm Emotions",
         "range": "60 feet",
         "ritual": false,
-        "school": "Enchantment",
+        "school": "enchantment",
         "tags": [
             "bard",
             "cleric",
@@ -3144,7 +3144,7 @@
         "name": "Cloud of Daggers",
         "range": "60 feet",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "bard",
             "sorcerer",
@@ -3758,7 +3758,7 @@
         "name": "Alter Self",
         "range": "Self",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "sorcerer",
             "wizard",
@@ -3814,13 +3814,13 @@
         "name": "Barkskin",
         "range": "Touch",
         "ritual": false,
-        "school": "transmuation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "ranger",
             "level2"
         ],
-        "type": "2nd-level transmuation"
+        "type": "2nd-level transmutation"
     },
     {
         "casting_time": "1 action",
@@ -4773,6 +4773,7 @@
         "name": "Control Weather",
         "range": "Self (5-mile radius)",
         "ritual": false,
+        "school": "transmutation",
         "tags": [
             "cleric",
             "druid",
@@ -6191,7 +6192,7 @@
         "name": "Animate Objects",
         "range": "120 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "bard",
             "sorcerer",
@@ -6602,7 +6603,7 @@
         "name": "Conjure Volley",
         "range": "150 feet",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "ranger",
             "level5"
@@ -9882,7 +9883,7 @@
         "name": "Thunderclap",
         "range": "Self (5-foot radius)",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "bard",
             "druid",
@@ -9912,7 +9913,7 @@
         "name": "Warding Wind",
         "range": "Self",
         "ritual": false,
-        "school": "level",
+        "school": "evocation",
         "tags": [
             "bard",
             "druid",
@@ -9940,7 +9941,7 @@
         "name": "Control Flames",
         "range": "60 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "sorcerer",
@@ -9969,7 +9970,7 @@
         "name": "Create Bonfire",
         "range": "60 feet",
         "ritual": false,
-        "school": "Conjuration",
+        "school": "conjuration",
         "tags": [
             "druid",
             "sorcerer",
@@ -9999,7 +10000,7 @@
         "name": "Frostbite",
         "range": "60 feet",
         "ritual": false,
-        "school": "Evocation",
+        "school": "evocation",
         "tags": [
             "druid",
             "sorcerer",
@@ -10028,7 +10029,7 @@
         "name": "Gust",
         "range": "30 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "sorcerer",
@@ -10055,7 +10056,7 @@
         "name": "Magic Stone",
         "range": "Touch",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "warlock",
@@ -10082,7 +10083,7 @@
         "name": "Mold Earth",
         "range": "30 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "sorcerer",
@@ -10110,7 +10111,7 @@
         "name": "Shape Water",
         "range": "30 feet",
         "ritual": false,
-        "school": "Transmutation",
+        "school": "transmutation",
         "tags": [
             "druid",
             "sorcerer",

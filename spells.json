@@ -3948,6 +3948,7 @@
             "somatic": true,
             "verbal": true
         },
+        "description": "For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.",
         "duration": "Concentration, up to 1 minute",
         "level": "3",
         "name": "Protection from Energy",

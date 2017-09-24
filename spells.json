@@ -131,7 +131,7 @@
             "verbal": true
         },
         "description": "You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.",
-        "duration": "1 Round",
+        "duration": "1 round",
         "level": "cantrip",
         "name": "Blade Ward",
         "range": "Self",
@@ -5515,7 +5515,7 @@
             "verbal": true
         },
         "description": "Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the start of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.",
-        "duration": "Concentration, up to one minute",
+        "duration": "Concentration, up to 1 minute",
         "level": "9",
         "name": "Weird",
         "range": "120 feet",
@@ -7706,7 +7706,7 @@
             "verbal": true
         },
         "description": "A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.\n\nAny creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.\n\nThe gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected fiames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.\n\nAs a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.",
-        "duration": "Concentration, up to 1 minute.",
+        "duration": "Concentration, up to 1 minute",
         "level": "2",
         "name": "Gust of Wind",
         "range": "Self (60-foot line)",
@@ -8063,7 +8063,7 @@
             "verbal": true
         },
         "description": "One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.\n\nThe target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range.\n\nWhen the spell ends, the target floats gently to the ground if it is still aloft.",
-        "duration": "Concentration, up to 10 minutes.",
+        "duration": "Concentration, up to 10 minutes",
         "level": "2",
         "name": "Levitate",
         "range": "60 feet",
@@ -8371,7 +8371,7 @@
             "verbal": true
         },
         "description": "Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.\n\nEach time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.\n\nlf you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.\n\nA duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.\n\nA creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.",
-        "duration": "1 Minute",
+        "duration": "1 minute",
         "level": "2",
         "name": "Mirror Image",
         "range": "Self",
@@ -9622,7 +9622,7 @@
             "verbal": true
         },
         "description": "This spell grants the ability to move across any liquid surface--such as water, acid, mud, snow, quicksand, or lava--as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heal). Up to ten willing creatures you can see within range gain this abilily for the duration.\n\nlf you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.",
-        "duration": "1 hours",
+        "duration": "1 hour",
         "level": "3",
         "name": "Water Walk",
         "range": "30 feet",

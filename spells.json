@@ -4397,7 +4397,7 @@
         "duration": "Concentration, up to 1 hour",
         "level": "2",
         "name": "Beast Sense",
-        "range": "touch",
+        "range": "Touch",
         "ritual": true,
         "school": "divination",
         "tags": [
@@ -4423,7 +4423,7 @@
         "duration": "Concentration, up to 1 minute",
         "level": "2",
         "name": "Blur",
-        "range": "self",
+        "range": "Self",
         "ritual": false,
         "school": "illusion",
         "tags": [
@@ -4449,7 +4449,7 @@
         "higher_levels": "When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.",
         "level": "2",
         "name": "Branding Smite",
-        "range": "self",
+        "range": "Self",
         "ritual": false,
         "school": "evocation",
         "tags": [
@@ -4600,7 +4600,7 @@
         "duration": "Concentration, up to 1 minute",
         "level": "2",
         "name": "Detect Thoughts",
-        "range": "self",
+        "range": "Self",
         "ritual": false,
         "school": "divination",
         "tags": [
@@ -8127,7 +8127,7 @@
         "higher_levels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
         "level": "3",
         "name": "Lightning Bolt",
-        "range": "Self (1OO-foot line)",
+        "range": "Self (100-foot line)",
         "ritual": false,
         "school": "evocation",
         "tags": [

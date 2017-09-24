@@ -6987,6 +6987,7 @@
             "somatic": true,
             "verbal": true
         },
+        "description": "You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.",
         "duration": "Concentration, up to 1 hour",
         "higher_levels": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
         "level": "2",

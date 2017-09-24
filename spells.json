@@ -2538,7 +2538,7 @@
         "type": "2nd-level Necromancy"
     },
     {
-        "casting_time": "1 minue",
+        "casting_time": "1 minute",
         "classes": [
             "cleric"
         ],
@@ -7134,7 +7134,7 @@
         "type": "2nd-level conjuration"
     },
     {
-        "casting_time": "1 minutes",
+        "casting_time": "1 minute",
         "classes": [
             "bard",
             "cleric",

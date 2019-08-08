@@ -1,6 +1,6 @@
 # Spells from the SRD
 
-This is a JSON formatted list of all the spells from the SRD, automatically pulled from @ephe's very nice [grimoire](https://github.com/ephe/grimoire/) with permission. This list has been both automatically and manually inspected, but is still likely to contain errors.
+This is a JSON formatted list of all the spells from the SRD, automatically pulled from @ephe's very nice [grimoire](https://github.com/jayrab/grimoire) with permission. This list has been both automatically and manually inspected, but is still likely to contain errors.
 
 ## General Format of a Spell
 
@@ -60,10 +60,6 @@ The description preserves whitespace in the form of linebreak characters (\n). I
 ## Users
 
 _If you make use of this repo and would like to be added here, just open a ticket!_
-
-### [D&D Next Sheet](http://tools.fromthetabletop.net/#/spells)
-
-_Sesopenko_
 
 Dungeons and Dragons 5th edition character sheet
 

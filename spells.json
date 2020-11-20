@@ -2616,7 +2616,7 @@
         "name": "Hold Person",
         "range": "60 feet",
         "ritual": true,
-        "school": "divination",
+        "school": "enchantment",
         "tags": [
             "bard",
             "cleric",
@@ -2626,7 +2626,7 @@
             "wizard",
             "level2"
         ],
-        "type": "2nd-level divination (ritual)"
+        "type": "2nd-level enchantment (ritual)"
     },
     {
         "casting_time": "1 action",

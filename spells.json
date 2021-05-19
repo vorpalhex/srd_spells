@@ -207,7 +207,6 @@
         "casting_time": "1 action",
         "classes": [
             "bard",
-            "cleric",
             "druid",
             "sorcerer",
             "warlock",
@@ -229,7 +228,6 @@
         "school": "enchantment",
         "tags": [
             "bard",
-            "cleric (trickery)",
             "druid",
             "sorcerer",
             "warlock",
@@ -3320,6 +3318,7 @@
         "classes": [
             "cleric",
             "druid",
+            "paladin",
             "ranger",
             "sorcerer"
         ],
@@ -3540,6 +3539,7 @@
         "casting_time": "1 action",
         "classes": [
             "sorcerer",
+            "warlock",
             "wizard"
         ],
         "components": {
@@ -3560,6 +3560,7 @@
         "school": "transmutation",
         "tags": [
             "sorcerer",
+            "warlock",
             "wizard",
             "level3"
         ],
@@ -3831,8 +3832,8 @@
         "casting_time": "1 action",
         "classes": [
             "bard",
-            "cleric",
-            "ranger"
+            "ranger",
+            "wizard"
         ],
         "components": {
             "material": true,
@@ -3852,8 +3853,8 @@
         "school": "abjuration",
         "tags": [
             "bard",
-            "cleric",
             "ranger",
+            "wizard",
             "level3"
         ],
         "type": "3rd-level abjuration"
@@ -5942,8 +5943,7 @@
         "casting_time": "1 hour",
         "classes": [
             "bard",
-            "cleric",
-            "druid"
+            "cleric"
         ],
         "components": {
             "material": true,
@@ -5964,7 +5964,6 @@
         "tags": [
             "bard",
             "cleric",
-            "druid",
             "level7"
         ],
         "type": "7th-level necromancy"
@@ -6058,6 +6057,7 @@
         "casting_time": "1 minute",
         "classes": [
             "bard",
+            "cleric",
             "wizard"
         ],
         "components": {
@@ -6078,6 +6078,7 @@
         "school": "abjuration",
         "tags": [
             "bard",
+            "cleric",
             "wizard",
             "level7"
         ],
@@ -9053,6 +9054,7 @@
         "ritual": false,
         "school": "evocation",
         "tags": [
+            "bard",
             "sorcerer",
             "warlock",
             "wizard",

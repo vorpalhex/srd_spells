@@ -4441,7 +4441,7 @@
         "type": "2nd-Level illusion"
     },
     {
-        "casting_time": "1 action",
+        "casting_time": "1 bonus action",
         "classes": [
             "paladin"
         ],

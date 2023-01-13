@@ -11246,6 +11246,108 @@
             "wizard",
             "level4"
         ],
-        "type": "6th-level evocation"
+        "type": "4th-level evocation"
+    },
+    {
+        "casting_time": "1 action",
+        "classes": [
+            "wizard",
+            "bard"
+        ],
+        "components": {
+            "material": false,
+            "raw": "V",
+            "somatic": false,
+            "verbal": true
+        },
+        "description": "Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the Duration. Creatures that can’t be Charmed are immune to this spell.\n\nA Dancing creature must use all its Movement to dance without leaving its space and has disadvantage on Dexterity Saving Throws and Attack rolls. While the target is affected by this spell, other Creatures have advantage on a⁠ttack rolls against it. As an Action, a Dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.",
+        "duration": "Concentration, up to 1 minute",
+        "level": "6",
+        "name": "Irresistible Dance",
+        "range": "30 feet",
+        "ritual": false,
+        "school": "enchantment",
+        "tags": [
+            "wizard",
+            "level6",
+            "bard"
+        ],
+        "type": "6th-level enchantment"
+    },
+    {
+        "casting_time": "1 action",
+        "classes": [
+            "wizard",
+            "bard"
+        ],
+        "components": {
+            "material": true,
+            "raw": "V, S, M (Pieces of eggshell from two different kinds of creatures)",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": "You forge a Telepathic link among up to eight willing Creatures of your choice within range, psychically linking each creature to all the others for the Duration. Creatures with Intelligence scores of 2 or less aren’t affected by this spell.\n\nUntil the spell ends, the Targets can communicate telepathically through the bond whether or not they have a Common language. The Communication is possible over any distance, though it can’t extend to Other Planes of existence.",
+        "duration": "1 hour",
+        "level": "5",
+        "name": "Telepathic Bond",
+        "range": "30 feet",
+        "ritual": true,
+        "school": "divination",
+        "tags": [
+            "wizard",
+            "level5",
+            "bard"
+        ],
+        "type": "5th-level divination (ritual)"
+    },
+    {
+        "casting_time": "1 action",
+        "classes": [
+            "wizard",
+            "bard"
+        ],
+        "components": {
+            "material": true,
+            "raw": "V, S, M (Tiny tarts and a feather that is waved in the air)",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": "A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming Incapacitated and unable to stand up for the Duration. A creature with an Intelligence score of 4 or less isn’t affected.\n\nAt the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.",
+        "duration": "Concentration, up to 1 minute",
+        "level": "1",
+        "name": "Hideous Laughter",
+        "range": "30 feet",
+        "ritual": false,
+        "school": "enchantment",
+        "tags": [
+            "wizard",
+            "level1",
+            "bard"
+        ],
+        "type": "1st-level divination"
+    },
+    {
+        "casting_time": "1 action",
+        "classes": [
+            "wizard"
+        ],
+        "components": {
+            "material": true,
+            "raw": "V, S, M (A drop of mercury)",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": "A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming Incapacitated and unable to stand up for the Duration. A creature with an Intelligence score of 4 or less isn’t affected.\n\nAt the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.",
+        "duration": "1 hour",
+        "level": "1",
+        "name": "Floating Disk",
+        "range": "30 feet",
+        "ritual": true,
+        "school": "conjuration",
+        "tags": [
+            "wizard",
+            "level1"
+        ],
+        "type": "1st-level conjuration (ritual)"
     }
 ]

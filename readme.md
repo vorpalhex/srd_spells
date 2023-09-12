@@ -1,3 +1,10 @@
+**Archived**
+
+Please use [5eTools](https://github.com/5etools-mirror-1/5etools-mirror-1.github.io/tree/master/data/spells) data instead.
+
+This won't be getting additional updates as it's fairly behind already and much better versions of this exist now. The 5eTools version handles scaling, is much more complete, and has a better overall data structure.
+
+
 # Spells from the SRD
 
 This is a JSON formatted list of all the spells from the SRD, automatically pulled from @ephe's very nice [grimoire](https://github.com/jayrab/grimoire) with permission. This list has been both automatically and manually inspected, but is still likely to contain errors.
